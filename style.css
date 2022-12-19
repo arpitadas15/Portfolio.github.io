@@ -379,6 +379,10 @@ footer .text a:hover {
     cursor: pointer;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .scroll-btn i {
     position: fixed;
     bottom: 20px;
